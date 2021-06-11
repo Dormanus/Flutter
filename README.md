@@ -1,6 +1,6 @@
 # menu
 
-A new Flutter project groupe Nicolas Castello et Emma Sumberac.
+Groupe Nicolas Castello et Emma Sumberac.
 
 ## Getting Started
 
